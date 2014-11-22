@@ -1,0 +1,560 @@
+#bodyWrap
+#footer
+.mb1
+.mt1-5
+.mb1-5
+.mt2-5
+.mb2-5
+.mt3
+.mb3
+.mt4
+.mb4
+.mb5
+.pt1
+.pb1
+.pt2
+.pb2
+.pt3
+.pb3
+.pt4
+.pb4
+.pt5
+.fz10
+.fz11
+.fz12
+.fz14
+.fz18
+.fz20
+.fz21
+.fz30
+.fz36
+.fz40
+.fz48
+.fwn
+.fwbolder
+.fwl
+.fsi
+.lh12
+.lh16
+.lh18
+.lh20
+.lh24
+.lh30
+.lh36
+.lh48
+.brs3
+.brs5
+.brs100
+.tac
+.tar
+.tal
+input[type="submit"]
+input[type=checkbox].checkbox
+input[type=checkbox].checkbox:checked + label > div.check
+.accordeonBox
+.error
+.error + label
+.ttn
+.tdu
+.THM
+data-fb-b]
+data-parallax="background-position-y"]
+.m0a
+.curd
+.color6
+.color9
+.colorF
+.colorC
+.color069
+.posr
+.vam
+.db
+.bxsz
+.posr
+animation]
+animation].bounceInRight
+animation].rotateIn
+animation].moveUp
+#header
+#header.fixed
+#header .logo
+#header .menu
+#header .menu li
+#header .menu li a
+#header .menu li a.last
+#header .menu .bottomLine
+#bottom-menu
+#mainmenu
+#submenu
+#menuIn
+#submenu ul li:hover i,#mainmenu li:hover i
+#submenu ul li:hover span,#mainmenu li:hover span
+#bottom-menu ul
+#bottom-menu ul li
+#bottom-menu ul li span
+#mainmenu ul li
+#mainmenu ul li:nth-child(2), #menuIn ul li:nth-child(3)
+#mainmenu ul li:nth-child(2)
+#mainmenu ul li:nth-child(2):active, #menuIn ul li:nth-child(3):active
+#mainmenu ul li:nth-child(2):active
+#submenu ul li, #menuIn ul li
+#menuIn ul li
+#submenu ul li div, #menuIn ul li div
+#menuIn ul li div
+.activeli
+#submenu ul li div:hover, #menuIn ul li div:hover
+#submenu ul li:nth-child(1), #menuIn ul li:nth-child(1)
+#submenu ul li:nth-child(2), #menuIn ul li:nth-child(2)
+#submenu ul li:nth-child(3), #menuIn ul li:nth-child(3)
+#submenu ul li:nth-child(4), #menuIn ul li:nth-child(4)
+#submenu ul li:nth-child(5), #menuIn ul li:nth-child(5)
+#submenu ul li.activeli:nth-child(1), #menuIn ul li.activeli:nth-child(1)
+#submenu ul li.activeli:nth-child(2), #menuIn ul li.activeli:nth-child(2)
+#submenu ul li.activeli:nth-child(3), #menuIn ul li.activeli:nth-child(3)
+#submenu ul li.activeli:nth-child(4), #menuIn ul li.activeli:nth-child(4)
+#submenu ul li.activeli:nth-child(5), #menuIn ul li.activeli:nth-child(5)
+body.ipad #slider
+#slider .ls-circle-timer
+#slider .ls-l .imageHover
+#slider .ls-l .imageHover:hover
+#slider .playButSlider
+#slider .playButSlider:hover
+.buttonWimg
+.buttonWimg:hover
+.tabsMain
+.tabsMain div > ul
+.tabsMain div > ul li
+.tabsMain div > ul li:hover
+.tabsMain div > ul li.active
+.tabsMain div > ul li:after
+.tabsMain div > ul li.active:after
+.tabsMain div > ul li:hover:after
+.tabsMain div > ul li:nth-child(1)
+.tabsMain div > ul li:nth-child(1):after
+.tabsMain div > ul li:nth-child(2)
+.tabsMain div > ul li:nth-child(2):after
+.tabsMain div > ul li:nth-child(3)
+.tabsMain div > ul li:nth-child(3):after
+.tabsMain div > ul li:nth-child(4)
+.tabsMain div > ul li:nth-child(4):after
+data-tabs-that="services"]
+.box.active .roundInCreate div.round
+.box.active .animateInBox
+.roundHover
+.roundHover:hover
+.roundInCreate
+.roundInCreate:hover
+.roundInCreate .color9.mt1, .roundInCreate .color6.mt1
+.roundInCreate div.round
+.roundInCreate.black div.round
+.roundInCreate:hover div.round
+.roundInCreate .colorF.fwl
+.roundInCreate:hover .colorF.fwl
+.wLines
+.wLines:after
+.wLines:before
+data-tabs-what="works"]
+data-tabs-what="works"] li
+data-tabs-what="works"] li.active
+data-tabs-what="works"] li:last-child
+.work
+.work .img
+.work .img div
+.work .img:after
+.work .img:before
+.work:hover .img:after
+.work:hover .img:before
+data-tabs-that="works"] .box .work
+data-tabs-that="works"] .box.active .work
+#allWorks .flex-control-nav
+.viewAllWorks
+.viewAllWorks:before
+.viewAllWorks:hover
+#solutions
+#solutions .preItem
+#solutions .item
+#solutions .item:nth-child(even)
+#solutions .item.withoutImg .butOpa
+#solutions .item .img
+#solutions .item .img:before
+#solutions .item .img img
+#solutions .item:hover .img:before
+#solutions .item.withoutImg:hover img
+#solutions .item .img img
+.solutions
+.solutions .scrollbar-content
+.solutions .line
+.butOpa
+.butOpa:hover
+.butOpa:active
+.butBlue
+.butBlue:hover
+.butBlue:active
+.forChart
+#ROI .forChart
+.forChart .over
+.forChart .but
+.forChart.active .but
+#ROI .forChart .but:after
+#ROI .forChart:after, #ROI .forChart:before
+.forChart.active:after
+.forChart.active:before
+.chart
+#ROI .chart:after
+#ROI .chart:before
+.chart canvas
+#ROI .chart canvas
+.percent
+#clients
+#clients img
+#clients .flex-control-nav
+#clients .flex-control-paging li a
+#videoBlock .vjs-control-bar
+#vjs_video_3
+#mainPosts.insidePost .img
+#mainPosts. .post .img:after
+#mainPosts .col3 .img:hover div
+#mainFooter
+.footerIco
+.footerIco img
+.footerIco:hover
+#footerSub input[type="text"]
+#footerSub input[type="submit"]
+#mainFooter .extranet
+#footer
+#footer a
+#footer .bug
+#footer .bug .what
+#footer .bug .what:after
+#footer .bug:hover .what
+#footer .bug .what:hover
+#footer .bug:hover
+#footer .bug span
+.mobileMenu
+.menu[data-fb-b]
+video
+.preItem .item
+.mobileDb
+.developMenu
+.developMenu.boxShadow
+.developMenu li
+.developMenu .body a
+.developMenu .body a.active
+.developMenu .body a span
+.developMenu .dropdown
+.developMenu .dropdown a
+.developMenu .dropdown ul
+.developMenu .dropdown:hover ul
+.developMenu .dropdown ul li a
+.developMenu .dropdown ul li a:hover
+.developMenu .dropdown a.active
+.developMenu a:hover, .developMenu .dropdown a.active
+.developMenu .body a.order
+.developMenu .body a.order:hover
+.developSecond
+.developSecond a
+.developSecond a.active
+#popup
+#popup .overview
+#popup .popupBlock.body
+#popup .popupBlock.body.insideFormOverflow
+#popup .popupBlock.body.insideFormOverflow form
+#popup .fcorn-shortcodes .toggle > .info
+.input
+.submit
+.blueLineDots span
+.fcorn-shortcodes .custom-radio > label.radio-label .info
+.butWimg
+.butWimg.pink
+.butFW
+#MY_VIDEO_1
+#MY_VIDEO_1 .vjs-big-play-button
+#MY_VIDEO_1 .vjs-big-play-button:before
+#MY_VIDEO_1 .vjs-big-play-button:hover:before
+#tenSlider .imgBlock
+#tenSlider .imgBlock p
+#tenSlider .flex-control-nav
+#tenSlider .flex-control-paging li a
+#tenSlider .flex-control-paging li a.flex-active
+#tenSlider .flex-control-paging li
+.technology
+.technology:hover
+#parallax
+#parallax .bal1
+#parallax .bal2
+#parallax .cloud1
+#parallax .cloud2
+#parallax .mouse
+#VIDEOBLOCK
+.whySite
+.whySite:hover
+.whySite img
+.whySite div
+.whySite p
+.arrowsMany
+.arrowsMany .whySite
+.arrowsMany .whySite .width
+.arrowsMany .whySite .cell
+.arrowsMany .whySite.col3.l img
+.arrowsMany .whySite.col3.l .width
+.arrowsMany .whySite.col3.l .width .cell
+.arrowsMany .whySite.col3.lr .width
+.arrowsMany .whySite .back
+.arrowsMany .whySite:hover .back
+.arrowsMany .whySite .back:hover
+.arrowsMany .whySite img
+.arrowsMany .whySite div
+.arrowsMany .whySite p
+.arrows
+.arrowsMany
+.whySite .info
+.whySite:hover .info
+.arrowsMany .whySite .back:hover ~ .info
+.whySite .info:after
+#carousel
+#carousel .carousel-feature
+#carousel .carousel-feature .block
+#carousel .carousel-feature .carousel-caption
+#carousel .carousel-feature:not(.activeSlide) .carousel-caption a
+#carousel .carousel-feature.activeSlide .carousel-caption
+#carousel .tracker-individual-container, #carousel .tracker-summation-container
+#carousel .carousel-feature
+#carousel .block .img
+#carousel .block .overlay
+#carousel .carousel-feature.activeSlide .block .overlay:before
+#carousel .block .overlay:hover:before
+.snake
+.snake.secondSnake
+.step
+.step .img
+.step .img img
+.step .img img.hover
+.step:hover .img img.hover
+.step p
+.step a
+.step .num
+.step:hover .num
+.orderInSteps
+.devRound
+#devForm input[type="text"]
+#devForm input[type="text"].full
+#devForm input[type="text"].r
+#devForm input[type="text"].l
+#devForm textarea
+#devForm input[type="submit"]
+#devForm .fcorn-shortcodes
+#devForm .fcorn-shortcodes .file-input > label > .btn.left span
+#devForm .fcorn-shortcodes .file-input > label > .btn.left
+.withTable
+.whiteWtriagle
+.whiteWtriagle:after
+.blueBut
+.blueBut:hover
+.opa1
+.top-banner
+.ban-yellow,.ban-orange,.ban-red,.ban-blue,.ban-green,.ban-top,.ban-main-top-shadow,.ban-main-top,.ban-bottom-shadow
+.ban-yellow
+.ban-orange
+.ban-red
+.ban-blue
+.ban-green
+.ban-top
+.ban-main-top
+.ban-main-top-shadow
+.ban-bottom-shadow
+.anim-first-ban .ban-yellow
+.anim-first-ban .ban-orange
+.anim-first-ban .ban-red
+.anim-first-ban .ban-blue
+.anim-first-ban .ban-green
+.anim-first-ban .ban-main-top
+.anim-first-ban .ban-top
+.anim-first-ban .ban-main-top-shadow
+.anim-first-ban .ban-bottom-shadow
+.anim-second-ban .ban-layer
+.htmlVideos
+.htmlVideos video
+#headTitle
+.adaptivePage
+.stepSlider
+.boxShadowStepSlider
+.stepSlider li
+.stepSlider li a
+.stepSlider .num
+.stepSlider .activeSlide .num
+.stepSlider p
+.stepSlider li:hover:not(.activeSlide) p
+.stepSlider .activeSlide p
+#stepSlider .flex-direction-nav .flex-next
+#stepSlider .flex-direction-nav .flex-prev
+.lighting
+.lighting:hover
+.safari
+.safari img
+.safari .frame
+.safari .frame img
+.frame .scrollbar-path-vertical
+.frame .scrollbar-path-vertical .scrollbar-handle
+.frame .scrollbar-path-vertical .scrollbar-handle:hover
+.useScroll
+.safariFrame
+.safariFrame li
+.safariFrame li:hover
+.safariFrame li.active
+.ipadScroll
+.ipadScroll img
+.ipadScroll .ipadframe
+.ipadScroll .scrollbar-content
+.ipadScroll .scrollbar-path-vertical, .ipadScroll .scrollbar-path-horizontal
+.useScrollTwo
+.cssTrigger
+.cssTrigger .content
+.cssTrigger .content.second
+.cssTrigger .line, .cssTrigger .line1, .cssTrigger .line2, .cssTrigger .line3
+.cssTrigger .running .line
+.cssTrigger .running .line1
+.cssTrigger .running .line2
+.cssTrigger .running .line3
+.cssTrigger .running .ball,.cssTrigger .running  .ball1,.cssTrigger .running  .ball2,.cssTrigger .running  .ball3,.cssTrigger .running  .ball4
+.cssTrigger .running .pulse,.cssTrigger .running .pulse1,.cssTrigger .running  .pulse2,.cssTrigger .running  .pulse3,.cssTrigger .running  .pulse4
+.cssTrigger .ball
+.cssTrigger .ball1
+.cssTrigger .ball2
+.cssTrigger .ball3
+.cssTrigger .ball4
+.cssTrigger .pulse
+.cssTrigger .pulse1
+.cssTrigger .pulse2
+.cssTrigger .pulse3
+.cssTrigger .pulse4
+.cssTrigger #layerBall, .cssTrigger #layerPulse
+.cssTrigger #layerBall1, .cssTrigger #layerPulse1
+.cssTrigger #layerBall2, .cssTrigger #layerPulse2
+.cssTrigger #layerBall3, .cssTrigger #layerPulse3
+.cssTrigger #layerBall4, .cssTrigger #layerPulse4
+.ipadRetina
+.quoter .img
+.blockWhite
+.blockWhite:after
+#blog #subscribe
+#blog #subscribe input[type="text"]
+#blog #subscribe input[type="text"].error::-webkit-input-placeholder, #blog #subscribe input[type="text"].email:not(.error)::-webkit-input-placeholder
+#blog #subscribe input[type="text"].error:-moz-placeholder, #blog #subscribe input[type="text"].email:not(.error):-moz-placeholder
+#blog #subscribe input[type="text"].error::-moz-placeholder, #blog #subscribe input[type="text"].email:not(.error)::-moz-placeholder
+#blog #subscribe input[type="text"].error:-ms-input-placeholder, #blog #subscribe input[type="text"].email:not(.error):-ms-input-placeholder
+#blog #subscribe input[type="text"].error
+#blog #subscribe input[type="text"].email:not(.error)
+#blog #subscribe input[type="submit"]
+#blog #subscribe label
+#blog #subscribe label .text
+#blog #subscribe label .check
+#blog #subscribe .rules
+#blog #subscribe .rules .closer
+.author
+.author .photo
+.author .photo .img
+.author .photo .hover
+.author:hover .photo .hover
+.author .desc
+.author .desc > div
+.allAuthors
+.allAuthors div
+.allAuthors div:after
+.allAuthors.active div:after
+.allAuthors.posts
+.allAuthors.posts:hover
+.pagination
+.pagination .prev, .pagination .num, .pagination .next
+.pagination .num.active
+#portfolio .box .work
+#portfolio .box .work.visible
+#portfolio .box
+#mainPosts.postInside .img
+#mainPosts.postInside .img:after, #mainPosts.postInside .img:before
+.syntaxhighlighter .toolbar
+.postInside .post--content
+.postInside .post--content ul, .postInside .post--content ul li
+.postInside .post--content ol, .postInside .post--content ol li
+.postInside .post--content p
+.postInside .post--content h1, .postInside .post--content h2, .postInside .post--content h3, .postInside .post--content h4, .postInside .post--content h5, .postInside .post--content h6
+.postInside .post--content blockquote
+.postInside .post--content img
+.prevNextPost
+.prevNextPost a
+.prevNextPost a:hover
+.prevNextPost .prev:hover
+.prevNextPost .next:hover
+.prevNextPost .prev
+.prevNextPost .next
+.authorBlock
+.authorBlock .photo
+.authorBlock .photo a
+.authorBlock .photo .img
+.authorBlock .photo .hover
+.authorBlock .photo:hover .hover
+.authorBlock .content
+.authorBlock .name
+.authorBlock .social img
+.authorBlock .social:hover img
+.comments
+.comment .photo
+.comment .photo a
+.comment .photo .img.noPhoto
+.comment .photo .img
+.comment .photo .hover
+.comment .photo:hover .hover
+.comment .content
+#mainPosts.insidePost .img:after, #mainPosts.insidePost .img:before
+.roundNum
+.roundNum.first:after
+.roundNum.second:after
+.roundNum.second:before
+.roundNum.third:after
+.wShadow
+.btn.left.blue
+.prMainBlock
+.prMainBlock:nth-child(odd)
+.prMainBlock:nth-child(odd):after
+.prMainBlock:after
+.prMainBlock:before
+.prMainLine
+.bottomTitle
+.contentSlideBottom
+.contentSlideBottom a
+.bottomSlideCloser
+.sebe
+#ROI .forChart .redBg
+#ROI .forChart:hover .redBg
+.company--header
+.company--logo
+.company--logo .logo
+.company--header .bottomLine
+.company--soc
+.company--soc img
+.company--soc:hover
+.company--header .bbdf
+.company--header .mt130
+.company--events
+.button--dark
+.button--dark.full-size
+.button--dark.half-of-size
+.button--dark:hover
+.button--dark.active
+.button--blue
+.button--blue.full-size
+.button--blue.half-of-size
+.button--blue:hover
+.button--blue.active
+.company--event .image
+.company--event .image .img
+.company--event .image .hover
+.company--event:hover .image .hover
+.company--event .image .hover .date
+.company--event a
+.trs2
+#work-in-it .button--blue.active
+.fcorn-shortcodes
+.fcorn-shortcodes .file-input > label > .btn.left span
+.fcorn-shortcodes .file-input > label > .btn.left
+textarea.input
+input[type="submit"]
